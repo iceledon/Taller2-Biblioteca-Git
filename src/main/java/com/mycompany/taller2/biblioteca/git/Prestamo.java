@@ -50,4 +50,5 @@ public class Prestamo {
                 + ", Libro: " + libro
                 + ", Estado: " + (activo ? "Activo" : "Devuelto");
     }
+    
 }
